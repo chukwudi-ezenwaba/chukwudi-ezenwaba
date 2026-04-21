@@ -1,4 +1,4 @@
-# Hi there and welcome to my repository!
+Hi there and welcome to my repository!
 
 I am a Cloud and Network Administrator building scalable, secure, and automated infrastructure across AWS, Azure, and hybrid environments.
 
