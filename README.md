@@ -33,17 +33,17 @@ Hybrid identity and endpoint management solution integrating on-prem systems wit
 ## Technical Skills
 
 Cloud: AWS, Microsoft Azure  
-Systems: Linux, Proxmox  
+Systems: Linux, Proxmox, VMWare Esxi  
 Networking: VLANs, OSPF, Network Design, VPN, LAN, WAN, Wireless  
-Automation: Python, Bash  
+Automation: Python, Bash, Powershell, Ansible  
 IT Support: Windows, Troubleshooting, Device Provisioning, Microsoft Intune  
-Identity and Security: Entra ID, IAM, Microsoft 365  
+Identity and Security: Entra ID, IAM, Microsoft 365, IPSEC VPN, Active Directory  
 
 ---
 
 ## Current Direction
 
-Focused on cloud engineering, infrastructure automation, and IT support within hybrid environments.
+Focused on cloud engineering, infrastructure automation, IT security and IT support within hybrid/cloud native environments.
 
 Actively seeking opportunities to contribute to building and supporting scalable, reliable systems.
 
