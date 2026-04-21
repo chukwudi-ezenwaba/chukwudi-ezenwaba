@@ -56,7 +56,7 @@ Systems: Linux, Proxmox
 Networking: VLANs, OSPF, Network Design  
 Automation: Python, Bash  
 IT Support: Windows, Troubleshooting, Device Provisioning, Microsoft Intune  
-Identity and Security: Azure AD, IAM, Microsoft 365  
+Identity and Security: Entra ID, IAM, Microsoft 365  
 
 ---
 
