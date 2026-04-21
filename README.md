@@ -53,7 +53,7 @@ Implemented hybrid identity, device provisioning (Autopilot & Intune), and secur
 
 Cloud: AWS, Microsoft Azure  
 Systems: Linux, Proxmox  
-Networking: VLANs, OSPF, Network Design  
+Networking: VLANs, OSPF, Network Design, VPN, LAN, WAN, Wireless  
 Automation: Python, Bash  
 IT Support: Windows, Troubleshooting, Device Provisioning, Microsoft Intune  
 Identity and Security: Entra ID, IAM, Microsoft 365  
