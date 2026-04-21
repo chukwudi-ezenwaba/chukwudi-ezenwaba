@@ -30,25 +30,6 @@ Hybrid identity and endpoint management solution integrating on-prem systems wit
 
 ---
 
-## GitHub Highlights
-
-Hybrid Azure and Microsoft 365 Environment  
-Implemented hybrid identity, device provisioning (Autopilot & Intune), and secure access controls across cloud and on-prem infrastructure.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chukwudi-ezenwaba&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chukwudi-ezenwaba&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chukwudi-ezenwaba&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## Technical Skills
 
 Cloud: AWS, Microsoft Azure  
