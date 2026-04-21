@@ -26,7 +26,7 @@ Python-based automation for configuring and managing Cisco networks, including V
 Automated virtual machine backup solution with scheduling, logging, and retention policies to support disaster recovery.
 
 ✦ Hybrid Azure and Microsoft 365 Environment  
-Hybrid identity and endpoint management solution integrating on-prem systems with Azure AD, Intune, and Microsoft 365.
+Hybrid identity and endpoint management solution integrating on-prem systems with Entra ID, Intune, and Microsoft 365.
 
 ---
 
