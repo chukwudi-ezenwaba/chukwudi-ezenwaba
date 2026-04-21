@@ -16,16 +16,16 @@ My experience also includes IT support and endpoint management, ensuring users h
 
 ## Selected Work
 
-Multi-Cloud Deployment (AWS + Azure)  
+✦ Multi-Cloud Deployment (AWS + Azure)  
 Scalable application architecture with load balancing, auto-scaling, and secure network design across two cloud platforms.
 
-Network Automation Lab  
+✦ Network Automation Lab  
 Python-based automation for configuring and managing Cisco networks, including VLANs, OSPF, and configuration backups.
 
-Proxmox Backup Automation  
+✦ Proxmox Backup Automation  
 Automated virtual machine backup solution with scheduling, logging, and retention policies to support disaster recovery.
 
-Hybrid Azure and Microsoft 365 Environment  
+✦ Hybrid Azure and Microsoft 365 Environment  
 Hybrid identity and endpoint management solution integrating on-prem systems with Azure AD, Intune, and Microsoft 365.
 
 ---
