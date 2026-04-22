@@ -40,11 +40,6 @@ IT Support: Windows, Troubleshooting, Device Provisioning, Microsoft Intune
 Identity and Security: Entra ID, IAM, Microsoft 365, IPSEC VPN, Active Directory  
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chukwudi-ezenwaba&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## Current Direction
 
@@ -55,3 +50,8 @@ Actively seeking opportunities to contribute to building and supporting scalable
 ---
 
 Toronto, Canada
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chukwudi-ezenwaba&layout=compact&theme=tokyonight" />
+</p>
