@@ -49,9 +49,6 @@ Actively seeking opportunities to contribute to building and supporting scalable
 
 ---
 
-Toronto, Canada
-
----
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chukwudi-ezenwaba&layout=compact&theme=tokyonight" />
 </p>
