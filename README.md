@@ -1,6 +1,6 @@
 Hi there and welcome to my repository!
 
-I am a Cloud and Network Administrator building scalable, secure, and automated infrastructure across AWS, Azure, and hybrid environments.
+I am a Cloud Infrastructure and Network Administrator building scalable, secure, and automated infrastructure across AWS, Azure, and hybrid environments.
 
 My work focuses on designing systems that are resilient, production-ready, and aligned with real-world enterprise practices — from multi-cloud deployments to network automation and infrastructure reliability.
 
