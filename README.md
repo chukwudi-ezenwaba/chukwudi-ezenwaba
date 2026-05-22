@@ -28,6 +28,9 @@ Automated virtual machine backup solution with scheduling, logging, and retentio
 ✦ Hybrid Azure and Microsoft 365 Environment  
 Hybrid identity and endpoint management solution integrating on-prem systems with Entra ID, Intune, and Microsoft 365.
 
+✦ Multi-Vendor VPN Lab
+Site-to-site IPsec VPN lab across Cisco ASA, Palo Alto, and FortiGate with architecture design, vendor-specific configuration guides, verification steps, and troubleshooting.
+
 ---
 
 ## Technical Skills
